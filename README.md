@@ -34,6 +34,8 @@ Matplotlib releases are available as wheel packages for macOS, Windows and Linux
 
 ```bash
 python -m pip install -U pip
+```
+```bash
 python -m pip install -U matplotlib
 ```
     
@@ -41,12 +43,15 @@ python -m pip install -U matplotlib
 
 Various third-parties provide Matplotlib for their environments.
 Matplotlib is available both via the anaconda main channel
-
 ```bash
 conda install matplotlib
-OR
+```
+or
+```bash
 conda install -c conda-forge matplotlib
 ```
+
+
 ## Contributing
 
 Contributions are always welcome!
