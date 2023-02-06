@@ -1,27 +1,3 @@
-
-## Authors
-
-- [@MasadAshraf](https://masadashraf.com/)
-
-## 🚀 About Me
-I will show you the world through my eyes
-
-Hola 👋! Laravel certified & building SaaS with remarkable technologies, sharing experiences related to e-commerce platforms like Shopify/Bigcommerce.
-Taste and try new things for fun growth mixed with Coding!
-
-
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://masadashraf.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-masad-ashraf-72492892/)
-[![twitter](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/masad.ashraf)
-
-
-## Tech Stack
-
-Python
-
-
-
 # Matplotlib
 
 - Convert your image into grey scale using Matplot library python [Source Code](https://github.com/MasadAshraf/Matplotlib/blob/master/index.ipynb)
@@ -50,6 +26,26 @@ or
 ```bash
 conda install -c conda-forge matplotlib
 ```
+
+## Tech Stack
+
+Python
+
+## Authors
+
+- [@MasadAshraf](https://masadashraf.com/)
+
+## 🚀 About Me
+I will show you the world through my eyes
+
+Hola 👋! Laravel certified & building SaaS with remarkable technologies, sharing experiences related to e-commerce platforms like Shopify/Bigcommerce.
+Taste and try new things for fun growth mixed with Coding!
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://masadashraf.com/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-masad-ashraf-72492892/)
+[![twitter](https://img.shields.io/badge/facebook-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.facebook.com/masad.ashraf)
 
 
 ## Contributing
